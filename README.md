@@ -2,7 +2,7 @@
 
 This project has been built alongside the [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc) on YouTube by codeSTACKr
 
-This was an oppootunity to work with React and Auth0 and to also [water.css](https://watercss.kognise.dev/). I can use what I've learnt here in my new project **Nobelium** (WIP) - a quiz authoring, session management and delivery platform.
+This was an oppootunity to work with React and Auth0 and to also [water.css](https://watercss.kognise.dev/). I can use what I've learnt here in my new project **Nobelium** (WIP) - a "pub quiz" style authoring and delivery platform.
 
 ## Example
 
